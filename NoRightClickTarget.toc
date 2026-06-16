@@ -1,0 +1,7 @@
+## Interface: 120007
+## Title: No Right Click Target
+## Notes: Prevents right-click targeting from world-frame camera movement.
+## Author: Yvairel
+## Version: 12.0.7-1
+
+NoRightClickTarget.lua

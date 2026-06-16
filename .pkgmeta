@@ -1,0 +1,10 @@
+package-as: NoRightClickTarget
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
+
+ignore:
+  - .pkgmeta
+  - .git
+  - "*.png"
